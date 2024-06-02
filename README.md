@@ -20,15 +20,13 @@ I am a student, currently studying in Ho Chi Minh City Open University. From ver
 - Unlock the secret to the universe :rofl:
 
 ## Reach me 
-[![Github](https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social)](https://github.com/HFing)
-[![Instagram](https://img.shields.io/badge/-@sarthak_bharadwaj-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sarthak_bharadwaj_/)](https://www.instagram.com/nguyeh_hoang/)
 
-[![Mail](https://img.shields.io/badge/-sarthakbh321@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:thaihoangon.on@gmail.com)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nguyeh_hoang/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">]([https://www.facebook.com/vivek.chauhan.942145](https://www.facebook.com/HFing2209/))
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://github.com/HFing)
 
 
-### Interesting stats
 
-![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=sarthakbh321&show_icons=true)
 
 Thanks for stopping by! 😁
 
