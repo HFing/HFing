@@ -22,7 +22,7 @@ I am a student, currently studying in Ho Chi Minh City Open University. From ver
 ## Reach me 
 
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nguyeh_hoang/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">]([https://www.facebook.com/HFing2209/](https://www.facebook.com/HFing2209/))
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/HFing2209/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://github.com/HFing)
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
