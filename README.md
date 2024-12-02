@@ -16,7 +16,6 @@ I am a student, currently studying in Ho Chi Minh City Open University. From ver
 	- Node Js
    
 ## What I want to do next :thinking:
-- Backend Development (to become a Full-Stack developer)
 - DevOps (to become a DevOps developer)
 - Cloud AWS
 - At least delve into AI and ML.
