@@ -5,17 +5,20 @@ I am a student, currently studying in Ho Chi Minh City Open University. From ver
 
 ## What I know :computer:
 - **Competitive Programming**
-	- Python ❤️
+	- Java ❤️
 	- C++
-	- Some Java
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
 	- React with Redux :electron:
 	- ReactJS
-
+- **BackEnd Development**
+	- Spring Boost :white_check_mark:
+	- Node Js
+   
 ## What I want to do next :thinking:
 - Backend Development (to become a Full-Stack developer)
+- DevOps (to become a DevOps developer)
+- Cloud AWS
 - At least delve into AI and ML.
 - Unlock the secret to the universe :rofl:
 
